@@ -18,8 +18,10 @@
     minimum_size 1920 1280
     maximum_width 1920
     ```
+
 * Toggle the settings (such as replacing "wlan0" with "eth0" for your system.)
 * Load by running:
     ```
     conky &
     ```
+
