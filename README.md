@@ -25,3 +25,9 @@
     conky &
     ```
 
+## Images
+
+The rest of the of the configuration files can be found in my settings for cairo-dock and [Awesome WM] (https://github.com/Alexhuszagh/awesome).
+
+![Image of Conky Config]
+(http://i.imgur.com/41qHHlH.png)
