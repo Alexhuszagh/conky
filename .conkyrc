@@ -55,7 +55,7 @@ lua_draw_hook_pre clock_rings
 
 ## Adjust the values offset as per your requirements
 TEXT
-${offset 130}${voffset 170}${font monofur bold:pixelsize=40}Alex Huszgh ${offset -230}${voffset 40}${color fa6973}${font monofur:pixelsize=40}Ubuntu 15.04
+${offset 130}${voffset 170}${font monofur bold:pixelsize=40}Alex Huszagh ${offset -230}${voffset 40}${color fa6973}${font monofur:pixelsize=40}Ubuntu 15.04
 
 ${offset 660}${voffset -200}${color fa6973}${font monofur:pixelsize=200}${time %H:%M}${font monofur}${offset -480}${voffset 30}${color EAEAEA}${font monofur:pixelsize=90}${time %a},${time %d} ${color EAEAEA}${font monofur:pixelsize=90}${time  %b}${offset -470}${voffset 50}${font monofur:pixelsize=20:style=Bold}${color fa6973}HD ${offset 9}$color${fs_free /} / ${fs_size /}${offset 30}${color fa6973}RAM ${offset 9}$color$mem / $memmax${offset 30}${color fa6973}CPU ${offset 9}$color${cpu cpu0}%
 ${image ~/.conky/rev-eng.png}
@@ -70,4 +70,4 @@ ${offset 310}${voffset -50}${color fa6973}${font monofur:size=20}${top name 5}${
 ${offset 550}${voffset -160}${color ffffff}${font monofur:size=15}${color fa6973}IP : ${color ffffff} ${addr wlan0}
 ${offset 550}${color ffffff}${font monofur:size=15}${color fa6973}Down : ${color ffffff}${downspeed wlan0} k/s
 ${offset 550}${color fa6973}Up: ${color ffffff}${upspeed wlan0} k/s
-${offset 30}${voffset 120}${font monofur:pixelsize=40}${color 4eafec}To do list:${offset 20}${voffset -20}${font monofur:pixelsize=25}${color ffffff}${tail ~/todo 5}
+${offset 30}${voffset 120}${font monofur:pixelsize=40}${color 4eafec}To do list:${offset 20}${voffset -20}${font monofur:pixelsize=25}${color ffffff}${tail ~/todo 6}
