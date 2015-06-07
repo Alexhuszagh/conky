@@ -29,8 +29,6 @@
 
 The rest of the of the configuration files can be found in my settings [Awesome WM] (https://github.com/Alexhuszagh/awesome).
 
-![Image of running desktop]
-(http://i.imgur.com/c2QxeQI.png)
 ![Image of functionning dock]
 (http://i.imgur.com/auyIM0A.png)
 ![Image of tiled and floating dropdown terminals]
