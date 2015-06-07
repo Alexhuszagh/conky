@@ -27,7 +27,7 @@
 
 ## Images
 
-The rest of the of the configuration files can be found in my settings [Awesome WM] (https://github.com/Alexhuszagh/awesome).
+The rest of the of the configuration files can be found in my settings [Awesome WM] (https://github.com/Alexhuszagh/awesome) and [Dot Files] (https://github.com/Alexhuszagh/dotfiles).
 
 ![Image of functionning dock]
 (http://i.imgur.com/auyIM0A.png)
