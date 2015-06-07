@@ -31,5 +31,7 @@ The rest of the of the configuration files can be found in my settings [Awesome 
 
 ![Image of running desktop]
 (http://i.imgur.com/c2QxeQI.png)
-(http://i.imgur.com/MhZdHD9.png)
+![Image of functionning dock]
+(http://i.imgur.com/auyIM0A.png)
+![Image of tiled and floating dropdown terminals]
 (http://i.imgur.com/ZqAPFi4.png)
